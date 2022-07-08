@@ -1,0 +1,101 @@
+body {
+    background: hsl(217, 54%, 11%);
+    font-family: Outfit;
+    font-weight: 300, 400, 600;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 5px;
+    
+
+}
+
+h1 {
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+}
+header> p{
+    font-size: 18px;
+    color: hsl(215, 51%, 70%)
+}
+.card {
+    background: hsl(216, 50%, 16%);
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 300px;
+    padding: 15px;
+
+    border-radius: 15px;
+
+}
+
+.resize1 {
+    max-width: 300px;
+    border-radius: 15px;
+    
+
+}
+
+
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    padding-right: 108px;
+}
+
+.time {
+    color: hsl(215, 51%, 70%);
+    
+   
+}
+.icon1 {
+    padding-right: 5px;
+    max-width: 15px;
+    
+}
+.icon2 {
+    padding-right: 5px;
+    max-width: 15px;
+}
+
+main {
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+    padding-bottom: 15px;
+}
+
+.card2 {
+    padding-top: 15px;
+   
+
+}
+footer {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+   
+  
+}
+
+footer section {
+    display: inline-block;
+}
+
+.resize2 {
+    width: 35px;
+    height: 35px;
+    outline: 1px solid white;
+    border-radius: 50%;
+   
+    
+    
+   
+}
+.creation>p {
+    margin-left: 20px;
+    color:hsl(215, 51%, 70%);
+
+    
+}
+.name{
+    color: hsl(0, 0%, 100%);
+   
+}
