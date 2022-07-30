@@ -1,3 +1,5 @@
+
+
 body {
     background: hsl(217, 54%, 11%);
     font-family: "Outfit";
@@ -6,7 +8,7 @@ body {
     margin-bottom: 100px;
     border-radius: 5px;
     max-height: 500px;
-
+    height: 500px;
 }
 
 h1 {
@@ -27,11 +29,11 @@ header> p{
     max-height: 500px;
     border-radius: 15px;
     padding-bottom: 67px;
-
+    height: 500px;
 }
 
 .resize1 {
-    max-width: 300px;
+    max-width: 100%;
     border-radius: 15px;
     
 
@@ -43,7 +45,7 @@ main > section {
 
 .eth {
     color: hsl(178, 100%, 50%);
-    padding-right: 101px;
+    padding-right: 85px;
 }
 
 .time {
@@ -112,3 +114,20 @@ footer section +section {
 }
 
 
+
+
+ a{
+    text-decoration: none;
+}
+
+.backImg {
+    background-image: url(image-equilibrium.jpg) ;
+    background-size: cover ;
+    max-width: 100%;
+    height: 287px;
+}
+
+.hoverEffect:hover  {
+    background: hsl(178, 100%, 50%);
+    background-size: cover;
+}
